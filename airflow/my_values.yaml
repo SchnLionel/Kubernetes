@@ -11,8 +11,10 @@ logs:
 uid: 1000
 gid: 1000
 executor: CeleryKubernetesExecutor
+defaultAirflowTag: "2.10.2"
 
 scheduler:
+
   env:
   - name: AIRFLOW__SCHEDULER__DAG_DIR_LIST_INTERVAL
     value: "10"

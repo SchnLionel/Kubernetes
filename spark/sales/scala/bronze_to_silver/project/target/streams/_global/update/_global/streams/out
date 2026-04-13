@@ -1,0 +1,3 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/ubuntu/Kubernetes/spark/sales/scala/bronze_to_silver/project/"), "bronze_to_silver-build")...
+[debug] Done updating ProjectRef(uri("file:/home/ubuntu/Kubernetes/spark/sales/scala/bronze_to_silver/project/"), "bronze_to_silver-build")
